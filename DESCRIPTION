@@ -2,15 +2,15 @@ Package: nougadmt
 Title: Non-linear Unmixing by Gradient Descent
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Mirek",
+    c(person(given = "Mirek",
            family = "Kratochvíl",
            role = c("aut", "cre"),
            email = "exa.exa@gmail.com",
-           comment = c(ORCID = "0000-0001-7356-4075"))
+           comment = c(ORCID = "0000-0001-7356-4075")),
  person(given = "Matěj",
            family = "Nemec",
            role = "prizdisrac - multithreding",
-           email = "matejnem@gmail.com"))
+           email = "matejnem@gmail.com")))
 Description: What the package does (one paragraph).
 License: GPL (>= 2)
 Encoding: UTF-8
