@@ -10,7 +10,7 @@ Authors@R:
  person(given = "Matěj",
            family = "Nemec",
            role = "prizdisrac - multithreding",
-           email = "matejnem@gmail.com")))
+           email = "matejnem@gmail.com"))
 Description: What the package does (one paragraph).
 License: GPL (>= 2)
 Encoding: UTF-8
